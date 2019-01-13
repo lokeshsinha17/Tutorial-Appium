@@ -16,7 +16,7 @@ import static io.appium.java_client.touch.offset.ElementOption.element;
 public class DragDropDemo extends base_for_DifferentApp {
 
 	public static void main(String[] args) throws MalformedURLException {
-		// TODO Auto-generated method stub
+		
 
 		
 		
